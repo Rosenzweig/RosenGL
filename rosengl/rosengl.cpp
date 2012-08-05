@@ -21,7 +21,7 @@ bool RosenGL::Initialize()
     }
     m_shader->BindAttrib(0, "a_position");
     m_shader->BindAttrib(1, "a_color");
-    m_shader->BindFragDataLocation(1, "outColor");
+    //m_shader->BindFragDataLocation(1, "outColor");
     m_shader->LinkProgram();
     m_shader->BindShader();
 
