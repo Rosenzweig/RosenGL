@@ -6,13 +6,12 @@
 class Player
 {
 public:
-enum Buffers
-{
-    VERTEX_BUFFER = 0,
-    INDEX_BUFFER,
-    COLOR_BUFFER,
-    LAST_BUFFER
-};
+//enum Buffers
+//{
+//   VERTEX_BUFFER = 0,
+//    INDEX_BUFFER,
+//    LAST_BUFFER
+//};
 
 Player();
 bool Initialize(GLSLProgram* prog);
