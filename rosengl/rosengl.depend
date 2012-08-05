@@ -1,8 +1,8 @@
 # depslib dependency file v1.0
-1344187552 source:c:\users\rosenzweig\desktop\stuff\c++\rosengl\player.cpp
+1344198431 source:c:\users\rosenzweig\desktop\stuff\c++\rosengl\player.cpp
 	"player.hpp"
 
-1344187615 c:\users\rosenzweig\desktop\stuff\c++\rosengl\player.hpp
+1344195202 c:\users\rosenzweig\desktop\stuff\c++\rosengl\player.hpp
 	"glsl.hpp"
 
 1344185087 c:\users\rosenzweig\desktop\stuff\c++\rosengl\glsl.hpp

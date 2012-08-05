@@ -17,7 +17,7 @@ void Player::InitVertexBuffer()
 
     player_indices =
     {
-        0, 2, 3, 0, 1, 2
+        0, 1, 2, 2, 3, 0
     };
 
     glGenBuffers(1, &player_vertexBuffer);

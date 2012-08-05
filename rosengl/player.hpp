@@ -24,6 +24,8 @@ float player_vertices[12];
 GLuint player_indices[6];
 float player_colors[3];
 
+GLuint* pplayer_indices;
+
 GLuint player_vertexBuffer;
 GLuint player_indexBuffer;
 GLuint player_colorBuffer;
