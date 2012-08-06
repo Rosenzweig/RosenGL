@@ -48,7 +48,7 @@ bool Player::Initialize(GLSLProgram* prog)
 
     if (!glGenBuffers || !glBindBuffer || !glBufferData)
     {
-        std::cerr << "Your video card doesn't support VBOs. Is this 2001?" << std::endl;
+        std::cerr << "Your video card doesn't support VBOs." << std::endl;
         return false;
     }
 
