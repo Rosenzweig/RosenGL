@@ -22,4 +22,4 @@ LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF
 CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE
 WORK, OR THE USE OF OR OTHER DEALINGS IN THE WORK.
 
-This is an OpenGL learning experience of mine. As the license above says, you may distribute it as you wish, but please keep in mind that this isn't the best OpenGL code in the world. If you have any questions or comments, then please email me at rosenzweigjcb@aol.com. 
+This is an OpenGL learning experience for me. As the license above says, you may distribute it as you wish, but please keep in mind that this isn't the best OpenGL code in the world. If you have any questions or comments, then please email me at rosenzweigjcb@aol.com. 
