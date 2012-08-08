@@ -33,7 +33,7 @@ void Player::InitColorBuffer()
 {
     player_colors =
     {
-        1.0f, 0.0f, 0.0f
+        1.0f, 0.0f, 0.0f,
     };
 
     glGenBuffers(1, &player_colorBuffer);

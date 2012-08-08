@@ -12,6 +12,7 @@
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
+					<Add option="-std=c++0x" />
 					<Add option="-g" />
 				</Compiler>
 			</Target>
@@ -39,7 +40,6 @@
 		</Linker>
 		<Unit filename="glsl.hpp" />
 		<Unit filename="main.cpp" />
-		<Unit filename="math.hpp" />
 		<Unit filename="player.cpp" />
 		<Unit filename="player.hpp" />
 		<Unit filename="rosengl.cpp" />

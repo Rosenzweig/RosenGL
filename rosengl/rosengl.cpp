@@ -27,6 +27,7 @@ bool RosenGL::Initialize()
 
     glClearColor(0.0f, 0.0f, 0.0f, 0.0f);
     m_player.Initialize(m_shader);
+
     return true;
 }
 

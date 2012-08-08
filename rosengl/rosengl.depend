@@ -1,8 +1,8 @@
 # depslib dependency file v1.0
-1344199302 source:c:\users\rosenzweig\desktop\stuff\c++\rosengl\player.cpp
+1344279473 source:c:\users\rosenzweig\desktop\stuff\c++\rosengl\player.cpp
 	"player.hpp"
 
-1344276056 c:\users\rosenzweig\desktop\stuff\c++\rosengl\player.hpp
+1344383822 c:\users\rosenzweig\desktop\stuff\c++\rosengl\player.hpp
 	"glsl.hpp"
 
 1344185087 c:\users\rosenzweig\desktop\stuff\c++\rosengl\glsl.hpp
@@ -19,13 +19,13 @@
 
 1343862823 c:\users\rosenzweig\desktop\stuff\c++\rosengl\math.hpp
 
-1344186397 source:c:\users\rosenzweig\desktop\stuff\c++\rosengl\rosengl.cpp
+1344279635 source:c:\users\rosenzweig\desktop\stuff\c++\rosengl\rosengl.cpp
 	"rosengl.hpp"
 
 1344123683 c:\users\rosenzweig\desktop\stuff\c++\rosengl\rosengl.hpp
 	"player.hpp"
 
-1344186441 source:c:\users\rosenzweig\desktop\stuff\c++\rosengl\main.cpp
+1344279540 source:c:\users\rosenzweig\desktop\stuff\c++\rosengl\main.cpp
 	"rosengl.hpp"
 	<GL/glfw.h>
 
