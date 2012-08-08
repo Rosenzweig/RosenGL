@@ -9,7 +9,7 @@ void Player::InitVertexBuffer()
 {
     player_vertices =
     {
-        0.0f, 0.f, 0.f
+        0.0f, 0.f, 0.f,
        -0.5f, 0.f, 0.f,
        -0.5f, -0.5f, 0.f,
         0.0f, -0.5f, 0.f
@@ -33,6 +33,9 @@ void Player::InitColorBuffer()
 {
     player_colors =
     {
+        1.0f, 0.0f, 0.0f,
+        1.0f, 0.0f, 0.0f,
+        1.0f, 0.0f, 0.0f,
         1.0f, 0.0f, 0.0f,
     };
 
